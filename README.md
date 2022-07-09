@@ -14,7 +14,7 @@ Moim celem jest rozwijanie wiedzy testowej i umiejętności technicznych. Na tej
 - Tworzenie przypadków testowych
 - Zgłaszanie błędów
 # Kursy
-  - https://coderslab.com/pl/  Szkoła IT Coders Lab - "Tester Manualny"
+  - https://coderslab.com/en/courses/manual-tester Szkoła IT Coders Lab - "Tester Manualny"
   - https://www.udemy.com/course/kurs-testowania-oprogramowania/ Udemy - "Podstawy manualnego testowania oprogramowania"
   - https://www.udemy.com/course/kurs-sql/ Udemy - "SQL - język zapytań do bazy danych SQL Server"
   - https://www.udemy.com/course/testowanie-produktow-cyfrowych/ Udemy - "Testowanie produktów cyfrowych (testowanie oprogramowania)"
