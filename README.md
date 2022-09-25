@@ -9,7 +9,7 @@ Moim celem jest rozwijanie wiedzy testowej i umiejętności technicznych. Na tej
   - wiedza z zakresu obsługi [TestFLO] - Coders Lab
   - wiedza z zakresu obsługi [TestLINK] - Coders Lab
 # Umiejętności
-- SQL
+- SQL - poziom podstawowy
 - Testowanie oprogramowania
 - Tworzenie przypadków testowych
 - Zgłaszanie błędów
