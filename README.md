@@ -8,12 +8,13 @@ Moim celem jest rozwijanie wiedzy testowej i umiejętności technicznych. Na tej
   - [Jira]
   - wiedza z zakresu obsługi [TestFLO] - Coders Lab
   - wiedza z zakresu obsługi [TestLINK] - Coders Lab
-# Umiejętności techniczne
+# Umiejętności
 - SQL
 - Testowanie oprogramowania
 - Tworzenie przypadków testowych
 - Zgłaszanie błędów
 - Wiedza w zakresie czytania diagramów UML i BPMN
+- Wiedza w zakresie podstaw metod zwinnym: user stories, story mapping
 # Kursy
   - https://coderslab.com/en/courses/manual-tester Szkoła IT Coders Lab - "Tester Manualny"
   - https://sii.pl/szkolenia/oferta/zostan-analitykiem-biznesowym/ Szkoła Sii - "Zostań Analitykiem Biznesowym"
