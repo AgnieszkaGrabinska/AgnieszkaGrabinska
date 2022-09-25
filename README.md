@@ -13,9 +13,12 @@ Moim celem jest rozwijanie wiedzy testowej i umiejętności technicznych. Na tej
 - Testowanie oprogramowania
 - Tworzenie przypadków testowych
 - Zgłaszanie błędów
+- Wiedza w zakresie czytania diagramów UML i BPMN
 # Kursy
   - https://coderslab.com/en/courses/manual-tester Szkoła IT Coders Lab - "Tester Manualny"
+  - https://sii.pl/szkolenia/oferta/zostan-analitykiem-biznesowym/ Szkoła Sii - "Zostań Analitykiem Biznesowym"
   - https://www.udemy.com/course/kurs-testowania-oprogramowania/ Udemy - "Podstawy manualnego testowania oprogramowania"
+  - https://www.udemy.com/course/modelowanie-procesow-biznesowych-bpmn-20-od-podstaw/ Udemy - "Modelowanie procesów biznesowych: BPMN 2.0 od podstaw"
   - https://www.udemy.com/course/kurs-sql/ Udemy - "SQL - język zapytań do bazy danych SQL Server"
   - https://www.udemy.com/course/testowanie-produktow-cyfrowych/ Udemy - "Testowanie produktów cyfrowych (testowanie oprogramowania)"
 # Literatura
